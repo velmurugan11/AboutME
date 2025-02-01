@@ -39,8 +39,8 @@ I am eager to build efficient systems and work on solving complex problems. My f
 &nbsp; -->
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][back-end-anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" />][back-end-anchor]
-&nbsp;
+<!-- [<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" />][back-end-anchor]
+&nbsp; -->
 <!-- [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][back-end-anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][back-end-anchor] -->
