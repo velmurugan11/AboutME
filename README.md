@@ -31,10 +31,10 @@ I am eager to build efficient systems and work on solving complex problems. My f
 &nbsp; -->
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][back-end-anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][back-end-anchor]
-&nbsp;
-<!-- [<img src="https://img.shields.io/badge/Apache-282C34?logo=apache&logoColor=D22128" alt="Apache logo" title="Apache" height="25" />][back-end-anchor]
+<!-- [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="Oracle SQL logo" title="MySQL" height="25" />][back-end-anchor]
 &nbsp; -->
+[<img src="https://img.shields.io/badge/Oracle_SQL-282C34?logo=oracle&logoColor=F80000" alt="Apache logo" title="Apache" height="25" />][back-end-anchor]
+&nbsp;
 <!-- [<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" />][back-end-anchor]
 &nbsp; -->
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][back-end-anchor]
@@ -44,6 +44,13 @@ I am eager to build efficient systems and work on solving complex problems. My f
 <!-- [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][back-end-anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][back-end-anchor] -->
+
+## Cloud Platforms
+
+[<img src="https://img.shields.io/badge/Azure_Cloud-0089D6?logo=azure&logoColor=FFFFFF" alt="Node.js logo" title="Node.js" height="25" />][back-end-anchor]
+&nbsp;
+
+[<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?logo=aws&logoColor=FF9900" alt="Express.js logo" title="Express.js" height="25" />][back-end-anchor]
 
 ## Other Techs & Tools
 
@@ -65,11 +72,10 @@ I am eager to build efficient systems and work on solving complex problems. My f
 
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" />](mailto:mvel3987@gmail.com)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/vsbuidev)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/velmurugan-m-a51171220/)
 &nbsp;
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" />](https://www.github.com/vsbuidev)
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" />](https://github.com/velmurugan11)
 &nbsp;
-[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />](https://www.figma.com/@vsbuidev)
 
 [front-end-anchor]: #front-end
 [back-end-anchor]: #back-end
